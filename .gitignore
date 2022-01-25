@@ -6,4 +6,5 @@ prettyprint
 *.so
 *.dylib
 *.dll
+test.v
 vls.log
